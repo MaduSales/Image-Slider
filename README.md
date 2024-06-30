@@ -5,7 +5,7 @@ Projeto pessoal dedicado a estudos de propriedades e funções como: appendChild
 
 
 ## Acesso
-[](https://madusales.github.io/Image-Slider/)
+[(Clique aqui)](https://madusales.github.io/Image-Slider/)
 
 ## Tecnologias
 - HTML
